@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Galaxy Shooter.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\SENA Trabajos\Unity Projects\Galaxy Shooter\.idea\.idea.Galaxy Shooter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
